@@ -1,0 +1,38 @@
+{
+  "configVersion": 1,
+  "index": "http://pritam07.github.io/newchat/index.html",
+  "assetGroups": [
+    {
+      "name": "app",
+      "installMode": "prefetch",
+      "updateMode": "prefetch",
+      "urls": [
+        "http://pritam07.github.io/newchat/favicon.ico",
+        "http://pritam07.github.io/newchat/index.html",
+        "http://pritam07.github.io/newchat/inline.f5fdd56e4e62fd0e2087.bundle.js",
+        "http://pritam07.github.io/newchat/main.5311089d48e73883f404.bundle.js",
+        "http://pritam07.github.io/newchat/polyfills.ad37cd45a71cb38eee76.bundle.js",
+        "http://pritam07.github.io/newchat/scripts.6a599efbd7aa1f1065b6.bundle.js",
+        "http://pritam07.github.io/newchat/styles.9e5e94ffa6fc3ca525e7.bundle.css"
+      ],
+      "patterns": []
+    },
+    {
+      "name": "assets",
+      "installMode": "lazy",
+      "updateMode": "prefetch",
+      "urls": [],
+      "patterns": []
+    }
+  ],
+  "dataGroups": [],
+  "hashTable": {
+    "http://pritam07.github.io/newchat/inline.f5fdd56e4e62fd0e2087.bundle.js": "0c7c9226402a31cad5ba7d845fb573cfd174c755",
+    "http://pritam07.github.io/newchat/main.5311089d48e73883f404.bundle.js": "5354c8947cc04069b54a38e0acc83262e90852c9",
+    "http://pritam07.github.io/newchat/polyfills.ad37cd45a71cb38eee76.bundle.js": "f7eca8eeec782793d946a11338044f7426ab3494",
+    "http://pritam07.github.io/newchat/scripts.6a599efbd7aa1f1065b6.bundle.js": "00c1758268015c3ce894f167bf439d6d49896620",
+    "http://pritam07.github.io/newchat/styles.9e5e94ffa6fc3ca525e7.bundle.css": "ffe2c33b58950956d5e00e8208c7d5429b8755f7",
+    "http://pritam07.github.io/newchat/favicon.ico": "84161b857f5c547e3699ddfbffc6d8d737542e01",
+    "http://pritam07.github.io/newchat/index.html": "8d56c74fd2644e824f01b9cdfc6045593d1987d4"
+  }
+}
